@@ -1,6 +1,6 @@
-### vScreenshot
+### Screenshot
 
-!(https://github.com/sparkzilla/week_14_day_01_Top20_homework/blob/master/public/Top20Homework.png "Screenshot")
+![screenshot](https://github.com/sparkzilla/week_14_day_01_Top20_homework/blob/master/public/Top20Homework.png)
 
 
 
